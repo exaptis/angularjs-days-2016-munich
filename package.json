@@ -29,6 +29,7 @@
   "devDependencies": {
     "angular-cli": "0.0.*",
     "angular-cli-github-pages": "^0.2.0",
+    "bookmonkey-api": "^1.1.0",
     "ember-cli-inject-live-reload": "^1.3.0",
     "glob": "^6.0.4",
     "jasmine-core": "^2.3.4",
@@ -37,9 +38,9 @@
     "karma-chrome-launcher": "^0.2.1",
     "karma-jasmine": "^0.3.6",
     "protractor": "^3.0.0",
+    "ts-node": "^0.5.5",
     "tslint": "^3.3.0",
     "typescript": "^1.8.2",
-    "typings": "^0.6.6",
-    "ts-node": "^0.5.5"
+    "typings": "^0.6.6"
   }
 }
